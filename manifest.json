@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "atlantis",
+  "description": "we don't know what we do",
+  "version": "0.1",
+  "icons": {
+    "128": "icon.png"
+  },
+  "permissions": [],
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "minimum_chrome_version": "49"
+}
